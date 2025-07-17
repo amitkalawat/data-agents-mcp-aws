@@ -1,0 +1,21 @@
+title,type,genres,release_year,rating,runtime,episodes,content_id
+The Last Frontier,Movie,"['Action', 'Sci-Fi']",2023,8.5,142,,CNT000001
+Comedy Central,TV Show,['Comedy'],2022,7.8,,24,CNT000002
+Dark Waters,Movie,"['Thriller', 'Drama']",2023,8.2,118,,CNT000003
+Family Ties,TV Show,"['Drama', 'Romance']",2021,8.0,,36,CNT000004
+The Algorithm,Movie,"['Sci-Fi', 'Thriller']",2024,7.9,125,,CNT000005
+Breaking Boundaries,Documentary,['Documentary'],2023,8.7,95,,CNT000006
+Midnight Terror,Movie,['Horror'],2023,7.2,98,,CNT000007
+Detective Chronicles,TV Show,"['Crime', 'Thriller']",2022,8.4,,48,CNT000008
+Space Academy,TV Show,"['Sci-Fi', 'Action']",2023,8.1,,30,CNT000009
+Love in Paris,Movie,"['Romance', 'Comedy']",2024,7.5,105,,CNT000010
+The Heist,Movie,"['Action', 'Crime']",2023,8.3,132,,CNT000011
+Nature's Wonders,Documentary,['Documentary'],2024,9.0,88,,CNT000012
+Animated Adventures,TV Show,"['Animation', 'Comedy']",2022,8.2,,52,CNT000013
+City Lights,Movie,"['Drama', 'Romance']",2023,7.7,115,,CNT000014
+Future Wars,Movie,"['Action', 'Sci-Fi']",2024,8.0,148,,CNT000015
+Comedy Night Live,TV Show,['Comedy'],2023,7.6,,18,CNT000016
+The Mansion,Movie,"['Horror', 'Thriller']",2023,7.3,102,,CNT000017
+Medical Emergency,TV Show,['Drama'],2022,8.5,,42,CNT000018
+Robot Revolution,Movie,"['Sci-Fi', 'Action']",2024,7.8,136,,CNT000019
+Historical Secrets,Documentary,['Documentary'],2023,8.6,92,,CNT000020

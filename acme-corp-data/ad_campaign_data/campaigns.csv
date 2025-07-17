@@ -1,0 +1,101 @@
+campaign_id,campaign_name,campaign_type,objective,start_date,end_date,budget,target_audience,target_countries,promoted_content_id,promoted_content_title
+CMP000001,Retention - Display Campaign 1,Display,Retention,2024-07-10,2024-07-31,39591.35,All Ages,USA,CNT000005,The Algorithm
+CMP000002,Re-engagement - Email Campaign 2,Email,Re-engagement,2024-08-27,2024-09-14,22542.61,25-34,"USA,Canada",CNT000003,Dark Waters
+CMP000003,Upsell - Display Campaign 3,Display,Upsell,2024-09-17,2024-12-10,35907.01,All Ages,LATAM,,
+CMP000004,Upsell - Social Media Campaign 4,Social Media,Upsell,2024-10-31,2024-12-05,42255.26,25-34,Europe,CNT000001,The Last Frontier
+CMP000005,User Acquisition - Video Campaign 5,Video,User Acquisition,2024-12-10,2025-01-21,482885.23,18-24,USA,CNT000011,The Heist
+CMP000006,Retention - Search Campaign 6,Search,Retention,2024-11-20,2024-12-09,68298.08,All Ages,Europe,CNT000002,Comedy Central
+CMP000007,Brand Awareness - Social Media Campaign 7,Social Media,Brand Awareness,2024-09-01,2024-09-23,132806.09,55+,Global,,
+CMP000008,Brand Awareness - Native Campaign 8,Native,Brand Awareness,2024-08-11,2024-09-11,56873.66,35-44,USA,CNT000008,Detective Chronicles
+CMP000009,Retention - Social Media Campaign 9,Social Media,Retention,2025-02-03,2025-02-22,56272.82,25-34,Global,CNT000012,Nature's Wonders
+CMP000010,Retention - Native Campaign 10,Native,Retention,2024-12-03,2025-01-05,76145.63,All Ages,USA,,
+CMP000011,Upsell - Video Campaign 11,Video,Upsell,2024-07-26,2024-10-22,78330.14,45-54,Europe,CNT000006,Breaking Boundaries
+CMP000012,Upsell - Native Campaign 12,Native,Upsell,2025-01-15,2025-04-13,37569.21,18-24,"USA,Canada",CNT000011,The Heist
+CMP000013,Retention - Social Media Campaign 13,Social Media,Retention,2025-05-17,2025-07-03,25295.09,All Ages,Global,CNT000019,Robot Revolution
+CMP000014,Re-engagement - Social Media Campaign 14,Social Media,Re-engagement,2025-02-14,2025-05-15,90774.65,45-54,"USA,Canada",,
+CMP000015,Upsell - Video Campaign 15,Video,Upsell,2025-01-18,2025-02-11,63118.18,45-54,LATAM,CNT000019,Robot Revolution
+CMP000016,User Acquisition - Video Campaign 16,Video,User Acquisition,2024-11-10,2025-01-02,303810.52,18-24,USA,CNT000003,Dark Waters
+CMP000017,Re-engagement - Video Campaign 17,Video,Re-engagement,2025-03-16,2025-06-11,67712.72,45-54,LATAM,CNT000013,Animated Adventures
+CMP000018,Upsell - Search Campaign 18,Search,Upsell,2024-10-06,2024-12-19,88862.38,All Ages,USA,CNT000001,The Last Frontier
+CMP000019,Retention - Native Campaign 19,Native,Retention,2024-09-01,2024-10-12,28924.17,25-34,Europe,CNT000014,City Lights
+CMP000020,User Acquisition - Email Campaign 20,Email,User Acquisition,2025-06-01,2025-07-11,303072.67,All Ages,Global,CNT000004,Family Ties
+CMP000021,User Acquisition - Email Campaign 21,Email,User Acquisition,2024-07-10,2024-09-19,161135.71,55+,LATAM,CNT000006,Breaking Boundaries
+CMP000022,Re-engagement - Search Campaign 22,Search,Re-engagement,2025-06-02,2025-08-24,21558.14,35-44,"USA,Canada",CNT000012,Nature's Wonders
+CMP000023,Brand Awareness - Email Campaign 23,Email,Brand Awareness,2025-05-04,2025-06-10,62848.02,18-24,LATAM,CNT000016,Comedy Night Live
+CMP000024,Re-engagement - Native Campaign 24,Native,Re-engagement,2025-03-30,2025-04-22,95747.89,35-44,LATAM,CNT000006,Breaking Boundaries
+CMP000025,Upsell - Video Campaign 25,Video,Upsell,2024-07-27,2024-09-26,80421.22,25-34,Global,,
+CMP000026,Re-engagement - Search Campaign 26,Search,Re-engagement,2024-11-10,2025-02-08,91969.13,18-24,"USA,Canada",CNT000015,Future Wars
+CMP000027,Brand Awareness - Search Campaign 27,Search,Brand Awareness,2025-02-07,2025-02-22,138246.31,55+,"USA,Canada",CNT000008,Detective Chronicles
+CMP000028,Brand Awareness - Native Campaign 28,Native,Brand Awareness,2025-05-30,2025-06-15,84341.27,35-44,USA,CNT000002,Comedy Central
+CMP000029,Re-engagement - Search Campaign 29,Search,Re-engagement,2024-09-12,2024-10-19,37138.94,All Ages,LATAM,CNT000005,The Algorithm
+CMP000030,Re-engagement - Video Campaign 30,Video,Re-engagement,2024-08-11,2024-10-17,84599.76,18-24,USA,CNT000007,Midnight Terror
+CMP000031,Re-engagement - Social Media Campaign 31,Social Media,Re-engagement,2024-10-25,2024-12-16,57361.97,All Ages,USA,CNT000002,Comedy Central
+CMP000032,Retention - Native Campaign 32,Native,Retention,2025-05-02,2025-06-29,84047.4,25-34,"USA,Canada",CNT000004,Family Ties
+CMP000033,User Acquisition - Social Media Campaign 33,Social Media,User Acquisition,2025-02-25,2025-05-11,268752.66,45-54,"USA,Canada",CNT000009,Space Academy
+CMP000034,Brand Awareness - Email Campaign 34,Email,Brand Awareness,2025-04-25,2025-06-27,57588.25,18-24,USA,CNT000018,Medical Emergency
+CMP000035,Re-engagement - Social Media Campaign 35,Social Media,Re-engagement,2025-02-01,2025-03-01,58508.67,18-24,"USA,Canada",CNT000013,Animated Adventures
+CMP000036,Retention - Social Media Campaign 36,Social Media,Retention,2024-11-20,2024-11-27,94121.45,35-44,Europe,CNT000015,Future Wars
+CMP000037,User Acquisition - Video Campaign 37,Video,User Acquisition,2024-08-22,2024-10-30,218683.13,55+,LATAM,CNT000002,Comedy Central
+CMP000038,Brand Awareness - Display Campaign 38,Display,Brand Awareness,2025-05-02,2025-06-18,137626.64,55+,"USA,Canada",CNT000017,The Mansion
+CMP000039,User Acquisition - Display Campaign 39,Display,User Acquisition,2025-05-04,2025-07-15,127408.53,All Ages,"USA,Canada",CNT000003,Dark Waters
+CMP000040,User Acquisition - Email Campaign 40,Email,User Acquisition,2024-11-08,2024-11-30,331567.62,55+,USA,CNT000002,Comedy Central
+CMP000041,Upsell - Email Campaign 41,Email,Upsell,2024-10-31,2025-01-20,45309.59,25-34,Global,CNT000009,Space Academy
+CMP000042,User Acquisition - Social Media Campaign 42,Social Media,User Acquisition,2025-01-31,2025-03-12,368676.09,45-54,Global,CNT000010,Love in Paris
+CMP000043,Upsell - Social Media Campaign 43,Social Media,Upsell,2025-04-26,2025-05-04,99876.36,18-24,LATAM,CNT000004,Family Ties
+CMP000044,User Acquisition - Search Campaign 44,Search,User Acquisition,2025-02-13,2025-04-25,473303.75,25-34,Global,CNT000003,Dark Waters
+CMP000045,Upsell - Social Media Campaign 45,Social Media,Upsell,2025-01-08,2025-02-04,76283.19,All Ages,LATAM,CNT000020,Historical Secrets
+CMP000046,Brand Awareness - Search Campaign 46,Search,Brand Awareness,2025-05-29,2025-08-14,190839.5,35-44,USA,CNT000005,The Algorithm
+CMP000047,Retention - Video Campaign 47,Video,Retention,2025-04-09,2025-06-25,42540.5,All Ages,Global,CNT000007,Midnight Terror
+CMP000048,Upsell - Search Campaign 48,Search,Upsell,2025-02-18,2025-05-17,59082.55,18-24,Europe,CNT000002,Comedy Central
+CMP000049,Retention - Display Campaign 49,Display,Retention,2025-01-12,2025-01-24,81689.54,35-44,"USA,Canada",,
+CMP000050,Re-engagement - Native Campaign 50,Native,Re-engagement,2024-10-19,2025-01-04,64872.55,18-24,"USA,Canada",CNT000004,Family Ties
+CMP000051,Upsell - Search Campaign 51,Search,Upsell,2024-08-27,2024-09-07,64202.01,25-34,USA,CNT000014,City Lights
+CMP000052,Retention - Display Campaign 52,Display,Retention,2024-12-27,2025-02-18,36806.12,All Ages,USA,CNT000008,Detective Chronicles
+CMP000053,Upsell - Social Media Campaign 53,Social Media,Upsell,2024-12-03,2025-02-19,79958.21,25-34,"USA,Canada",CNT000008,Detective Chronicles
+CMP000054,Retention - Video Campaign 54,Video,Retention,2024-11-03,2024-11-13,82590.92,All Ages,"USA,Canada",CNT000014,City Lights
+CMP000055,Brand Awareness - Native Campaign 55,Native,Brand Awareness,2025-01-17,2025-02-13,107381.26,45-54,"USA,Canada",CNT000002,Comedy Central
+CMP000056,Retention - Search Campaign 56,Search,Retention,2025-02-20,2025-04-26,85642.91,25-34,USA,CNT000008,Detective Chronicles
+CMP000057,Retention - Search Campaign 57,Search,Retention,2025-02-24,2025-04-23,89148.24,35-44,LATAM,CNT000009,Space Academy
+CMP000058,Brand Awareness - Search Campaign 58,Search,Brand Awareness,2024-11-10,2025-01-24,67301.26,25-34,LATAM,CNT000009,Space Academy
+CMP000059,Upsell - Display Campaign 59,Display,Upsell,2025-01-18,2025-01-29,54765.1,45-54,LATAM,CNT000011,The Heist
+CMP000060,Upsell - Social Media Campaign 60,Social Media,Upsell,2024-09-14,2024-10-05,35206.3,All Ages,Europe,CNT000002,Comedy Central
+CMP000061,User Acquisition - Email Campaign 61,Email,User Acquisition,2025-06-02,2025-08-14,245688.59,All Ages,Global,CNT000003,Dark Waters
+CMP000062,Brand Awareness - Native Campaign 62,Native,Brand Awareness,2024-07-18,2024-09-03,157963.14,55+,Global,CNT000010,Love in Paris
+CMP000063,Retention - Social Media Campaign 63,Social Media,Retention,2024-11-05,2024-12-23,64353.0,45-54,Europe,CNT000007,Midnight Terror
+CMP000064,Retention - Email Campaign 64,Email,Retention,2025-03-05,2025-05-29,52486.01,35-44,Global,CNT000001,The Last Frontier
+CMP000065,Upsell - Email Campaign 65,Email,Upsell,2025-02-15,2025-04-18,72376.45,45-54,Europe,CNT000015,Future Wars
+CMP000066,User Acquisition - Social Media Campaign 66,Social Media,User Acquisition,2025-02-13,2025-04-26,363540.3,55+,LATAM,CNT000010,Love in Paris
+CMP000067,Retention - Video Campaign 67,Video,Retention,2024-12-13,2024-12-31,37971.25,25-34,USA,CNT000007,Midnight Terror
+CMP000068,Upsell - Social Media Campaign 68,Social Media,Upsell,2025-05-10,2025-06-17,87979.02,45-54,Europe,CNT000003,Dark Waters
+CMP000069,Re-engagement - Video Campaign 69,Video,Re-engagement,2024-07-15,2024-10-03,59550.17,25-34,USA,CNT000008,Detective Chronicles
+CMP000070,User Acquisition - Video Campaign 70,Video,User Acquisition,2025-04-09,2025-06-09,421643.94,55+,Europe,,
+CMP000071,Brand Awareness - Video Campaign 71,Video,Brand Awareness,2025-05-08,2025-07-25,118469.27,All Ages,LATAM,CNT000015,Future Wars
+CMP000072,Re-engagement - Search Campaign 72,Search,Re-engagement,2024-08-20,2024-11-11,69012.19,45-54,LATAM,CNT000017,The Mansion
+CMP000073,Re-engagement - Native Campaign 73,Native,Re-engagement,2024-10-17,2024-11-13,56005.58,All Ages,Global,CNT000008,Detective Chronicles
+CMP000074,User Acquisition - Native Campaign 74,Native,User Acquisition,2024-09-09,2024-11-17,209838.98,All Ages,Global,CNT000003,Dark Waters
+CMP000075,Retention - Search Campaign 75,Search,Retention,2025-02-02,2025-03-15,91442.15,25-34,"USA,Canada",CNT000003,Dark Waters
+CMP000076,User Acquisition - Native Campaign 76,Native,User Acquisition,2025-02-04,2025-04-01,382567.66,45-54,Europe,CNT000003,Dark Waters
+CMP000077,Re-engagement - Social Media Campaign 77,Social Media,Re-engagement,2024-12-15,2025-03-01,24981.26,45-54,LATAM,CNT000014,City Lights
+CMP000078,Re-engagement - Social Media Campaign 78,Social Media,Re-engagement,2025-05-23,2025-08-11,20471.69,35-44,Europe,CNT000012,Nature's Wonders
+CMP000079,Upsell - Native Campaign 79,Native,Upsell,2024-10-31,2025-01-14,83989.45,45-54,"USA,Canada",CNT000008,Detective Chronicles
+CMP000080,Brand Awareness - Social Media Campaign 80,Social Media,Brand Awareness,2025-01-14,2025-03-17,108328.58,All Ages,Europe,,
+CMP000081,Upsell - Video Campaign 81,Video,Upsell,2025-03-10,2025-05-15,62729.89,55+,LATAM,CNT000013,Animated Adventures
+CMP000082,Re-engagement - Native Campaign 82,Native,Re-engagement,2025-05-20,2025-06-06,30855.96,25-34,USA,CNT000015,Future Wars
+CMP000083,User Acquisition - Search Campaign 83,Search,User Acquisition,2025-01-20,2025-03-16,281879.73,45-54,Global,CNT000011,The Heist
+CMP000084,Re-engagement - Display Campaign 84,Display,Re-engagement,2024-10-30,2024-12-08,21550.66,18-24,Global,CNT000018,Medical Emergency
+CMP000085,Brand Awareness - Display Campaign 85,Display,Brand Awareness,2025-02-08,2025-05-09,163134.98,25-34,USA,CNT000008,Detective Chronicles
+CMP000086,User Acquisition - Video Campaign 86,Video,User Acquisition,2024-07-19,2024-08-14,289424.42,55+,"USA,Canada",CNT000004,Family Ties
+CMP000087,User Acquisition - Search Campaign 87,Search,User Acquisition,2024-10-07,2024-11-15,342357.08,18-24,"USA,Canada",,
+CMP000088,Brand Awareness - Email Campaign 88,Email,Brand Awareness,2024-12-25,2025-01-14,189333.08,All Ages,Europe,CNT000019,Robot Revolution
+CMP000089,Upsell - Display Campaign 89,Display,Upsell,2024-11-11,2024-12-13,75249.15,25-34,USA,,
+CMP000090,Upsell - Display Campaign 90,Display,Upsell,2024-12-30,2025-03-23,82610.83,55+,Europe,CNT000012,Nature's Wonders
+CMP000091,Retention - Email Campaign 91,Email,Retention,2024-11-25,2024-12-10,21012.17,45-54,USA,CNT000014,City Lights
+CMP000092,Re-engagement - Native Campaign 92,Native,Re-engagement,2024-10-24,2024-12-16,76584.69,25-34,LATAM,CNT000014,City Lights
+CMP000093,Upsell - Email Campaign 93,Email,Upsell,2024-07-04,2024-08-14,81971.32,45-54,LATAM,CNT000015,Future Wars
+CMP000094,Brand Awareness - Video Campaign 94,Video,Brand Awareness,2025-01-16,2025-03-05,91839.24,25-34,Europe,CNT000015,Future Wars
+CMP000095,Re-engagement - Native Campaign 95,Native,Re-engagement,2024-08-15,2024-11-08,46911.73,35-44,"USA,Canada",CNT000016,Comedy Night Live
+CMP000096,Retention - Search Campaign 96,Search,Retention,2024-09-26,2024-10-30,47227.11,All Ages,Global,CNT000020,Historical Secrets
+CMP000097,User Acquisition - Email Campaign 97,Email,User Acquisition,2024-08-22,2024-08-30,134245.18,45-54,LATAM,CNT000014,City Lights
+CMP000098,Re-engagement - Native Campaign 98,Native,Re-engagement,2025-01-30,2025-04-07,55853.96,18-24,Global,CNT000001,The Last Frontier
+CMP000099,User Acquisition - Native Campaign 99,Native,User Acquisition,2025-02-09,2025-04-08,222482.41,35-44,Europe,CNT000019,Robot Revolution
+CMP000100,Re-engagement - Search Campaign 100,Search,Re-engagement,2024-08-23,2024-11-05,99730.52,35-44,Global,CNT000018,Medical Emergency

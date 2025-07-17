@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "acme-s3-tables": {
+      "command": "uvx",
+      "args": ["awslabs.s3-tables-mcp-server@latest"],
+      "env": {
+        "AWS_PROFILE": "default",
+        "AWS_REGION": "us-east-1",
+        "S3_BUCKET": "acme-corp-data-tables"
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+*.egg-info/
+.pytest_cache/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files
+*.csv
+*.parquet
+*.json
+!package.json
+!mcp-config.json
+!lakehouse_config.json
+
+# AWS
+.aws/
+*.pem
+*keypair*
+
+# Security
+.env
+.env.*
+*.key
+*.cert
+*.crt
+secrets/
+credentials/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Test results  
+test-results/
+coverage/
+
+# Temporary files
+*.tmp
+temp/
+tmp/
+
+# S3 sync
+.s3_sync_cache/
+
+# MCP
+.config/mcp/
+
+# Local test data
+s3_tables_format/
+athena-results/

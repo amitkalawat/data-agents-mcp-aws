@@ -1,0 +1,28 @@
+{
+  "name": "soccer-streaming-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for soccer match streaming data from AWS MSK",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "mcp",
+    "soccer",
+    "streaming",
+    "kafka",
+    "msk"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "kafkajs": "^2.2.4",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

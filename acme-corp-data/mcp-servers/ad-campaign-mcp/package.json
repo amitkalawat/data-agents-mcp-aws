@@ -1,0 +1,26 @@
+{
+  "name": "acme-ad-campaign-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for Acme Corp ad campaign data and performance metrics",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "mcp",
+    "acme",
+    "advertising",
+    "campaigns"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "csv-parse": "^5.5.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
