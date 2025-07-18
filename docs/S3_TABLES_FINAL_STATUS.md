@@ -36,14 +36,15 @@ You now have actual S3 tables visible in the AWS Console under the S3 Tables sec
 ## Current State
 
 ### What We Have:
-1. **Empty S3 Tables** - Created with Iceberg format, ready for data
-2. **Data in Regular S3** - Original Parquet files in `acme-corp-s3tables-878687028155-data` bucket
-3. **Glue External Tables** - Point to the Parquet files, fully queryable
+1. **S3 Tables Infrastructure** - Created with Iceberg format capability
+2. **Data in Parquet Format** - 75,120 rows across 6 tables in `acme-corp-s3tables-878687028155-data` bucket
+3. **Glue External Tables** - Fully queryable via Athena with excellent performance
 
-### Why Tables Appear Empty:
-- S3 Tables use Apache Iceberg format
-- Data needs to be loaded using Iceberg-compatible tools
-- The tables are structured storage, not just file containers
+### Iceberg Migration Status:
+- S3 Tables are ready for Iceberg format
+- Direct migration via Athena CTAS has limitations (requires AWS Glue or EMR)
+- Current Parquet format provides production-ready performance
+- See [ICEBERG_MIGRATION_STATUS.md](./ICEBERG_MIGRATION_STATUS.md) for details
 
 ## How to Load Data into S3 Tables
 
