@@ -17,6 +17,7 @@ data-agent-experiment/
 ├── acme-corp-s3-data/           # AWS S3 Tables lakehouse implementation
 ├── docs/                        # Documentation and guides
 ├── examples/                    # Working code examples
+├── notebooks/                   # Jupyter notebooks for analysis
 └── soccer-streaming/            # Real-time streaming analytics
 ```
 
@@ -58,6 +59,16 @@ data-agent-experiment/
 - [S3 Tables Setup](./docs/S3_TABLES_FINAL_STATUS.md) - Current S3 Tables configuration
 - [Strands MCP Guide](./docs/STRANDS_S3_TABLES_MCP_GUIDE.md) - Integration guide
 - [Implementation Summary](./docs/STRANDS_MCP_S3TABLES_SUMMARY.md) - What was built
+
+## 📓 Jupyter Notebooks
+
+- **ACME_Bedrock_MCP_Demo.ipynb** - Bedrock + MCP integration demo
+- **ACME_Corp_S3_Tables_Complete_Guide.ipynb** - Comprehensive S3 Tables guide
+- **acme_corp_analysis_local.ipynb** - Local data analysis
+- **acme_corp_analysis_s3.ipynb** - S3-based data analysis
+- **strands_agents_demo_local.ipynb** - Local Strands demo
+- **strands_agents_demo_s3.ipynb** - S3 Strands integration
+- **soccer_analytics_agents.ipynb** - Soccer streaming analytics
 
 ## 🚦 Quick Start
 
